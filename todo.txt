@@ -1,0 +1,10 @@
+change the functions to receive an array of elements instead of every single elements
+
+a function should try to have one or two parameters only
+
+the function should NOT validate inside it. Validation is another function. even if you need one function for each variable
+
+check for function that have booleans as parameters, they must be refactored to NOT receive booleans
+
+use _nameOfVariable inside the function so it is considered local to the function
+ 
